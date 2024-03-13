@@ -1,5 +1,5 @@
 # stats220
-## Project 1
+Project 1
 ##by Emily Zhao
 
 **This task is to demostrate my knowledge in the use of:**
