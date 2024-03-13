@@ -1,6 +1,6 @@
 # stats220
-Project 1
 ##by Emily Zhao
+Project 1
 
 **This task is to demostrate my knowledge in the use of:**
 1) R code
